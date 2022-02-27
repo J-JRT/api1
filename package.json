@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "fb": "^2.0.0",
     "lyrics-finder": "^21.7.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "request": "^2.88.2"
   }
 }
