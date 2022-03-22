@@ -1,0 +1,456 @@
+{
+    "doanhinh": [
+        {
+            "tukhoa": "ảnh viện",
+            "sokitu": "☐☐☐ ☐☐☐☐",
+            "suggestions": "Ả☐☐ V☐☐☐",
+            "link": "https://i.imgur.com/g1cgsmx.jpg"
+        }, 
+        {
+            "tukhoa": "áo dài",
+            "sokitu": "☐☐ ☐☐☐",
+            "suggestions": "☐☐ D☐☐",
+            "link": "https://i.imgur.com/h0CVXU2.jpg"
+        },
+        {
+            "tukhoa": "áo bông",
+            "sokitu": "☐☐ ☐☐☐☐",
+            "suggestions": "A☐ B☐☐☐",
+            "link": "https://i.imgur.com/E5H0dpJ.jpg"
+        },
+        {
+            "tukhoa": "bài khóa",
+            "sokitu": "☐☐☐ ☐☐☐☐",
+            "suggestions": "B☐☐ K☐☐☐",
+            "link": "https://i.imgur.com/P7Zd47t.jpg"
+        },
+        {
+            "tukhoa": "bánh lái",
+            "sokitu": "☐☐☐☐ ☐☐☐",
+            "suggestions": "B☐☐☐ L☐☐",
+            "link": "https://i.imgur.com/YqZCogY.jpg"
+        },
+        {
+            "tukhoa": "bao tiêu",
+            "sokitu": "☐☐☐ ☐☐☐☐",
+            "suggestions": "B☐☐ T☐☐☐",
+            "link": "https://i.imgur.com/WvBhFgg.jpg"
+        },
+        {
+            "tukhoa": "băng đạn",
+            "sokitu": "☐☐☐☐ ☐☐☐",
+            "suggestions": "B☐☐☐ Đ☐☐",
+            "link": "https://i.imgur.com/9oNE8Ed.jpg"
+        },
+        {
+            "tukhoa": "bi hài",
+            "sokitu": "☐☐ ☐☐☐",
+            "suggestions": "B☐ H☐☐",
+            "link": "https://i.imgur.com/GwACyoI.jpg"
+        },
+        {
+            "tukhoa": "bổ sung",
+            "sokitu": "☐☐ ☐☐☐☐",
+            "suggestions": "B☐ S☐☐☐",
+            "link": "https://i.imgur.com/Ga2M05O.jpg"
+        },
+        {
+            "tukhoa": "búa bổ",
+            "sokitu": "☐☐☐ ☐☐",
+            "suggestions": "B☐☐ B☐",
+            "link": "https://i.imgur.com/tEyTg5i.jpg"
+        },
+        {
+            "tukhoa": "búa xua",
+            "sokitu": "☐☐☐ ☐☐☐",
+            "suggestions": "B☐☐ X☐☐",
+            "link": "https://i.imgur.com/vkgX7Yb.jpg"
+        },
+        {
+            "tukhoa": "ca khúc",
+            "sokitu": "☐☐ ☐☐☐☐",
+            "suggestions": "C☐ K☐☐☐",
+            "link": "https://i.imgur.com/FG7rMU3.jpg"
+        },
+        {
+            "tukhoa": "ca dao",
+            "sokitu": "☐☐ ☐☐☐",
+            "suggestions": "C☐ D☐☐",
+            "link": "https://i.imgur.com/zY6OJCq.jpg"
+        },
+        {
+            "tukhoa": "cây cối",
+            "sokitu": "☐☐☐ ☐☐☐",
+            "suggestions": "C☐☐ C☐☐",
+            "link": "https://i.imgur.com/6ZTi8TJ.jpg"
+        },
+        {
+            "tukhoa": "lời chào",
+            "sokitu": "☐☐ ☐☐☐☐",
+            "suggestions": "L☐☐ C☐☐☐",
+            "link": "https://i.imgur.com/hjaMQuj.jpg"
+        },
+        {
+            "tukhoa": "chè ngô",
+            "sokitu": "☐☐☐ ☐☐☐",
+            "suggestions": "C☐☐ N☐☐",
+            "link": "https://i.imgur.com/F2jNMS5.jpg"
+        },
+        {
+            "tukhoa": "chim cắt",
+            "sokitu": "☐☐☐☐ ☐☐☐",
+            "suggestions": "C☐☐☐ C☐☐",
+            "link": "https://i.imgur.com/8k1hCAt.jpg"
+        },
+        {
+            "tukhoa": "công lịch",
+            "sokitu": "☐☐☐☐ ☐☐☐☐",
+            "suggestions": "C☐☐☐ L☐☐☐",
+            "link": "https://i.imgur.com/FE1sOap.jpg"
+        },
+        {
+            "tukhoa": "dao yếm",
+            "sokitu": "☐☐☐ ☐☐☐",
+            "suggestions": "D☐☐ Y☐☐",
+            "link": "https://i.imgur.com/M73lfAE.jpg"
+        },  
+        {
+            "tukhoa": "điểm tựa",
+            "sokitu": "☐☐☐☐ ☐☐☐",
+            "suggestions": "Đ☐☐☐ T☐☐",
+            "link": "https://i.imgur.com/gMsp5YQ.jpg"
+        },
+        {
+            "tukhoa": "đồng hồ cát",
+            "sokitu": "☐☐☐☐ ☐☐ ☐☐☐",
+            "suggestions": "Đ☐☐☐ H☐ ☐☐☐",
+            "link": "https://i.imgur.com/oAdUF3E.jpg"
+        },
+        {
+            "tukhoa": "đa số",
+            "sokitu": "☐☐ ☐☐",
+            "suggestions": "Đ☐ S☐",
+            "link": "https://i.imgur.com/fOxz0ah.jpg"
+        },
+        {
+            "tukhoa": "đại bàng",
+            "sokitu": "☐☐☐ ☐☐☐☐",
+            "suggestions": "Đ☐☐ B☐☐☐",
+            "link": "https://i.imgur.com/PEs9bCo.jpg"
+        },
+        {
+            "tukhoa": "đèn giao thông",
+            "sokitu": "☐☐☐ ☐☐☐☐ ☐☐☐☐☐",
+            "suggestions": "Đ☐☐ G☐☐☐ T☐☐☐☐",
+            "link": "https://i.imgur.com/yr74VGn.jpg"
+        },
+        {
+            "tukhoa": "điểm rơi",
+            "sokitu": "☐☐☐☐ ☐☐☐",
+            "suggestions": "Đ☐☐☐ R☐☐",
+            "link": "https://i.imgur.com/FbIlQrL.jpg"
+        },
+        {
+            "tukhoa": "băng thông",
+            "sokitu": "☐☐☐☐ ☐☐☐☐☐",
+            "suggestions": "B☐☐☐ T☐☐☐☐",
+            "link": "https://i.imgur.com/uavWt6K.jpg"
+        },
+        {
+            "tukhoa": "giấy lộn",
+            "sokitu": "☐☐☐☐ ☐☐☐",
+            "suggestions": "G☐☐☐ L☐☐",
+            "link": "https://i.imgur.com/NY0w1Bn.jpg"
+        },
+        {
+            "tukhoa": "giật giải",
+            "sokitu": "☐☐☐☐ ☐☐☐☐",
+            "suggestions": "G☐☐☐ G☐☐☐",
+            "link": "https://i.imgur.com/UW8qHIp.jpg"
+        },
+        {
+            "tukhoa": "gió đông bắc",
+            "sokitu": "☐☐☐ ☐☐☐☐ ☐☐☐",
+            "suggestions": "G☐☐ Đ☐☐☐ B☐☐",
+            "link": "https://i.imgur.com/PY1hq2S.jpg"
+        },
+        {
+            "tukhoa": "hóa phẩm",
+            "sokitu": "☐☐☐ ☐☐☐☐",
+            "suggestions": "H☐☐ P☐☐☐",
+            "link": "https://i.imgur.com/gCZjJV6.jpg"
+        },
+        {
+            "tukhoa": "hộp cơm",
+            "sokitu": "☐☐☐ ☐☐☐",
+            "suggestions": "H☐☐ C☐☐",
+            "link": "https://i.imgur.com/LawAvtZ.jpg"
+        },
+        {
+            "tukhoa": "hồng ngoại",
+            "sokitu": "☐☐☐☐ ☐☐☐☐☐",
+            "suggestions": "H☐☐☐ NG☐☐☐",
+            "link": "https://i.imgur.com/dxhrT0J.jpg"
+        },
+        {
+            "tukhoa": "búa bổ",
+            "sokitu": "☐☐☐ ☐☐",
+            "suggestions": "B☐☐ B☐",
+            "link": "https://i.imgur.com/tEyTg5i.jpg"
+        },
+        {
+            "tukhoa": "bao tiêu",
+            "sokitu": "☐☐☐ ☐☐☐☐",
+            "suggestions": "B☐☐ T☐☐☐",
+            "link": "https://i.imgur.com/WvBhFgg.jpg"
+        },
+        {
+            "tukhoa": "ca dao",
+            "sokitu": "☐☐ ☐☐☐",
+            "suggestions": "C☐ D☐☐",
+            "link": "https://i.imgur.com/zY6OJCq.jpg"
+        },
+        {
+            "tukhoa": "lạc quan",
+            "sokitu": "☐☐☐ ☐☐☐☐",
+            "suggestions": "L☐☐ Q☐☐☐",
+            "link": "https://i.imgur.com/Y1CUUgH.jpg"
+        },
+        {
+            "tukhoa": "ly hôn",
+            "sokitu": "☐☐ ☐☐☐",
+            "suggestions": "L☐ H☐☐",
+            "link": "https://i.imgur.com/H4aOvdh.jpg"
+        },
+        {
+            "tukhoa": "kim bài",
+            "sokitu": "☐☐☐ ☐☐☐",
+            "suggestions": "K☐☐ B☐☐",
+            "link": "https://i.imgur.com/6dg6q6e.jpg"
+        },
+        {
+            "tukhoa": "máy mốc",
+            "sokitu": "☐☐☐ ☐☐☐",
+            "suggestions": "M☐☐ M☐☐",
+            "link": "https://i.imgur.com/k80gqrL.jpg"
+        },
+        {
+            "tukhoa": "lá ngón",
+            "sokitu": "☐☐ ☐☐☐☐",
+            "suggestions": "L☐ N☐☐☐",
+            "link": "https://i.imgur.com/T42RdcH.jpg"
+        },
+        {
+            "tukhoa": "tích lũy",
+            "sokitu": "☐☐☐☐ ☐☐☐",
+            "suggestions": "T☐☐☐ L☐☐",
+            "link": "https://i.imgur.com/7foAlzs.jpg"
+        },
+        {
+            "tukhoa": "nhân từ",
+            "sokitu": "☐☐☐☐ ☐☐",
+            "suggestions": "N☐☐☐ T☐",
+            "link": "https://i.imgur.com/XCY4PqW.jpg"
+        },
+        {
+            "tukhoa": "nhà lá",
+            "sokitu": "☐☐☐ ☐☐",
+            "suggestions": "N☐☐ L☐",
+            "link": "https://i.imgur.com/OH2YEfQ.jpg"
+        },
+        {
+            "tukhoa": "ngủ đông",
+            "sokitu": "☐☐☐ ☐☐☐☐",
+            "suggestions": "N☐☐ Đ☐☐☐",
+            "link": "https://i.imgur.com/LcIe37q.jpg"
+        },
+        {
+            "tukhoa": "nước lớn",
+            "sokitu": "☐☐☐☐ ☐☐☐",
+            "suggestions": "N☐☐☐ L☐☐",
+            "link": "https://i.imgur.com/DSEYy1K.jpg"
+        },
+        {
+            "tukhoa": "mật ít ong nhiều",
+            "suggestions": "M☐☐ I☐ O☐☐ N☐☐☐☐",
+            "sokitu": "☐☐☐ ☐☐ ☐☐☐ ☐☐☐☐☐",
+            "link": "https://i.imgur.com/ChjevpP.jpg"
+        },
+        {
+            "tukhoa": "tẩu hỏa nhập ma",
+            "sokitu": "☐☐☐ ☐☐☐ ☐☐☐☐ ☐☐",
+            "suggestions": "T☐☐ H☐☐ N☐☐☐ M☐",
+            "link": "https://i.imgur.com/SqA4sl7.jpg"
+        },
+        {
+            "tukhoa": "lặn lội",
+            "sokitu": "☐☐☐ ☐☐☐",
+            "suggestions": "L☐N L☐☐",
+            "link": "https://i.imgur.com/UCsESX2.jpg"
+        },
+        {
+            "tukhoa": "sử ca",
+            "sokitu": "☐☐ ☐☐",
+            "suggestions": "S☐ C☐",
+            "link": "https://i.imgur.com/VEaZyko.jpg"
+        },
+        {
+            "tukhoa": "phong độ",
+            "sokitu": "☐☐☐☐ ☐☐",
+            "suggestions": "P☐☐☐☐ Đ☐",
+            "link": "https://i.imgur.com/BPkhI4S.jpg"
+        },
+        {
+            "tukhoa": "phá rối",
+            "sokitu": "☐☐☐ ☐☐☐",
+            "suggestions": "P☐☐ R☐☐",
+            "link": "https://i.imgur.com/RNONPnZ.jpg"
+        },
+        {
+            "tukhoa": "dấu yêu",
+            "sokitu": "☐☐☐ ☐☐☐",
+            "suggestions": "D☐☐ Y☐☐",
+            "link": "https://i.imgur.com/J3RxnTg.jpg"
+        },
+        {
+            "tukhoa": "mắt xích",
+            "sokitu": "☐☐☐ ☐☐☐☐",
+            "suggestions": "M☐☐ X☐☐☐",
+            "link": "https://i.imgur.com/L2LGRRv.jpg"
+        },
+        {
+            "tukhoa": "muỗi đốt chân voi",
+            "sokitu": "☐☐☐☐ ☐☐☐ ☐☐☐☐ ☐☐☐",
+            "suggestions": "M☐☐☐ Đ☐☐ C☐☐☐ V☐☐",
+            "link": "https://i.imgur.com/daLOu2b.jpg"
+        },
+        {
+            "tukhoa": "kim mã",
+            "sokitu": "☐☐☐ ☐☐",
+            "suggestions": "K☐☐ M☐",
+            "link": "https://i.imgur.com/n5lr1k8.jpg"
+        },
+        {
+            "tukhoa": "tảo hôn",
+            "sokitu": "☐☐☐ ☐☐☐",
+            "suggestions": "T☐☐ H☐☐",
+            "link": "https://i.imgur.com/WOV4KAm.jpg"
+        },
+        {
+            "tukhoa": "vỗ béo",
+            "sokitu": "☐☐ ☐☐☐",
+            "suggestions": "V☐ B☐☐",
+            "link": "https://i.imgur.com/7IUckzr.jpg"
+        },
+        {
+            "tukhoa": "khôi ngô",
+            "sokitu": "☐☐☐☐ ☐☐☐",
+            "suggestions": "K☐☐☐ N☐☐",
+            "link": "https://i.imgur.com/wC44ZS1.jpg"
+        },
+        {
+            "tukhoa": "từ tính",
+            "sokitu": "☐☐ ☐☐☐☐",
+            "suggestions": "T☐ TÍ☐☐",
+            "link": "https://i.imgur.com/Tutmy0j.jpg"
+        },
+        {
+            "tukhoa": "lá cờ",
+            "sokitu": "☐☐ ☐☐",
+            "suggestions": "L☐ C☐",
+            "link": "https://i.imgur.com/34XpcDm.jpg"
+        },
+        {
+            "tukhoa": "lệch lạc",
+            "sokitu": "☐☐☐☐ ☐☐☐",
+            "suggestions": "L☐☐☐ L☐☐",
+            "link": "https://i.imgur.com/kMG3deI.jpg"
+        },
+        {
+            "tukhoa": "mê cung",
+            "sokitu": "☐☐ ☐☐☐☐",
+            "suggestions": "M☐ C☐☐☐",
+            "link": "https://i.imgur.com/j2aSiBM.jpg"
+        },
+        {
+            "tukhoa": "nhà sắt",
+            "sokitu": "☐☐☐ ☐☐☐",
+            "suggestions": "N☐☐ S☐☐",
+            "link": "https://i.imgur.com/tNVy3VP.jpg"
+        },
+        {
+            "tukhoa": "mật ngọt chết ruồi",
+            "sokitu": "M☐☐ ☐☐☐☐ C☐☐☐ R☐☐☐",
+            "suggestions": "M☐T N☐☐T C☐☐T R☐☐I",
+            "link": "https://i.imgur.com/27mcX9R.jpg"
+        },
+        {
+            "tukhoa": "luyện kim",
+            "sokitu": "☐☐☐☐☐ ☐☐☐",
+            "suggestions": "L☐☐☐☐ K☐☐",
+            "link": "https://i.imgur.com/TFI6vrI.jpg"
+        }
+        ,
+        {
+            "tukhoa": "mầm đá",
+            "sokitu": "☐☐☐ ☐☐",
+            "suggestions": "M☐☐ Đ☐",
+            "link": "https://i.imgur.com/RrxzdlA.jpg"
+        }
+        ,
+        {
+            "tukhoa": "phố hàng quạt",
+            "sokitu": "P☐☐ H☐☐☐ Q☐☐☐",
+            "suggestions": "P☐☐ H☐☐☐ Q☐☐☐",
+            "link": "https://i.imgur.com/l8ZU4SS.jpg"
+        }
+        ,
+        {
+            "tukhoa": "quy ước",
+            "sokitu": "☐☐☐ ☐☐☐",
+            "suggestions": "Q☐☐ Ư☐☐",
+            "link": "https://i.imgur.com/wkfDZ3C.jpg"
+        }
+        ,
+        {
+            "tukhoa": "xấu số",
+            "sokitu": "☐☐☐ ☐☐",
+            "suggestions": "X☐☐ S☐",
+            "link": "https://i.imgur.com/cSdZLH5.jpg"
+        }
+        ,
+        {
+            "tukhoa": "thông báo",
+            "sokitu": "☐☐☐☐☐ ☐☐☐",
+            "suggestions": "T☐☐☐☐ B☐☐",
+            "link": "https://i.imgur.com/JHvhD65.jpg"
+        }
+        ,
+        {
+            "tukhoa": "vũng tàu",
+            "sokitu": "☐☐☐☐ ☐☐☐",
+            "suggestions": "V☐☐☐ T☐☐",
+            "link": "https://i.imgur.com/8IFqA7p.jpg"
+        }
+        ,
+        {
+            "tukhoa": "trống đồng",
+            "sokitu": "☐☐☐☐☐ ☐☐☐☐",
+            "suggestions": "T☐☐☐☐ Đ☐☐☐",
+            "link": "https://i.imgur.com/i89axae.jpg"
+        }
+        ,
+        {
+            "tukhoa": "xuân tóc đỏ",
+            "sokitu": "X☐☐☐ T☐☐ Đ☐",
+            "suggestions": "X☐☐N T☐☐ Đ☐",
+            "link": "https://i.imgur.com/Q1UAG4F.jpg"
+        },
+        {
+            "tukhoa": "giản hòa",
+            "sokitu": "☐☐☐☐ ☐☐☐",
+            "suggestions": "G☐☐☐ H☐☐",
+            "link": "https://i.ytimg.com/vi/riVKDEXVV2M/maxresdefault.jpg"
+        }
+    ]
+}

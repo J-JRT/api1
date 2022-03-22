@@ -1,0 +1,182 @@
+{
+    "level_1": [
+    {
+        "question": "Đâu là tên một bãi biển ở Quảng Bình?",
+        "a": "Đá Lăn",
+        "b": "Đá Nhảy",
+        "c": "Đá Chạy",
+        "d": "Đá Bò",
+        "answer": "Đá Nhảy",
+        "righttToHhelp": "Đá Lăn",
+        "righttToHhelp_1": "Đá Nhảy"
+    }
+    ],
+    "level_2": [
+    {   
+        "question": "Haiku là thể thơ truyền thống của nước nào?",
+        "a": "Hàn Quốc",
+        "b": "Mông Cổ",
+        "c": "Nhật Bản",
+        "d": "Triều Tiên",
+        "answer": "Nhật Bản",
+        "righttToHhelp": "Nhật Bản",
+        "righttToHhelp_1": "Triều Tiên"
+    }
+    ],
+    "level_3": [
+    {
+        "question": "Chiến trường Đắk Tô - Tân Cảnh, nơi diễn ra chiến thắng vang đội năm 1972, nay thuộc địa bàn tỉnh nào ở Tây Nguyên?",
+        "a": "Kon Tum",
+        "b": "Đắk Lắk",
+        "c": "Đắk Nông",
+        "d": "Gia Lai",
+        "answer": "Kon Tum",
+        "righttToHhelp": "Kon Tum",
+        "righttToHhelp_1": "Gia Lai"
+    }
+    ],
+    "level_4": [
+    {
+        "question": "Tượng đài Chiến thắng Điện Biên Phủ được dựng trên ngọn đồi nào?",
+        "a": "D1",
+        "b": "C1",
+        "c": "A1",
+        "d": "E1",
+        "answer": "D1",
+        "righttToHhelp": "D1",
+        "righttToHhelp_1": "A1"
+    }
+    ],
+    "level_5": [
+    {
+        "question": "Bộ phim \"Chị Dậu\" được chuyển thể từ tác phẩm nào?",
+        "a": "Người mẹ cầm súng",
+        "b": "Vợ chồng A Phủ",
+        "c": "Tắt đèn",
+        "d": "Tuổi thơ dữ dội",
+        "answer": "Tắt đè",
+        "righttToHhelp": "Vợ chồng A Phủ",
+        "righttToHhelp_1": "Tắt đè"
+    }
+    ],
+    "level_6": [
+    {
+        "question": "Vườn quốc gia nào hiện không nằm trong danh sách Vườn di sản ASEAN?",
+        "a": "Vườn quốc gia Kon Ka Kinh",
+        "b": "Vườn quốc gia Tam Đảo",
+        "c": "Vườn quốc gia Chư Mom Ray",
+        "d": "Vườn quốc gia Bái Tử Long",
+        "answer": "Vườn quốc gia Tam Đảo",
+        "righttToHhelp": "Vườn quốc gia Tam Đảo",
+        "righttToHhelp_1": "Vườn quốc gia Bái Tử Long"
+    }
+    ],
+    "level_7": [
+    {
+        "question": "Trái Đất cách Mặt Trời khoảng bao nhiêu dặm?",
+        "a": "9,3 triệu",
+        "b": "39 triệu",
+        "c": "93 triệu",
+        "d": "193 triệu",
+        "answer": "93 triệu",
+        "righttToHhelp": "93 triệu",
+        "righttToHhelp_1": "193 triệu"
+    }
+    ],
+    "level_8": [
+    {
+        "question": "Theo Văn phòng Tham khảo Dân số, thì tổng số người từng sống trên Trái Đất từ xưa đến nay là khoảng bao nhiêu người?",
+        "a": "50 tỷ",
+        "b": "100 tỷ",
+        "c": "1.000 tỷ",
+        "d": "5.000 tỷ",
+        "answer": "100 tỷ",
+        "righttToHhelp": "100 tỷ",
+        "righttToHhelp_1": "1.000 tỷ"
+    }
+    ],
+    "level_9": [
+    {
+        "question": "Các nhà thần kinh học tin rằng vỏ thùy giữa trán của não được kích hoạt khi bạn làm gì?",
+        "a": "Bị hoảng loạn",
+        "b": "Ghi nhớ một cái tên",
+        "c": "Hiểu một chuyện cười",
+        "d": "Nghe nhạc",
+        "answer": "Hiểu một chuyện cười",
+        "righttToHhelp": "Bị hoảng loạn",
+        "righttToHhelp_1": "Hiểu một chuyện cười"
+    }
+    ],
+    "level_10": [
+    {
+        "question": "Loài côn trùng nào đã từng làm chập một chiếc máy tính và sau đó khiến người ta bắt đầu dùng cụm từ computer bug (“rệp máy tính”, tức là lỗi phần mềm)?",
+        "a": "Sâu bướm",
+        "b": "Gián",
+        "c": "Ruồi",
+        "d": "Bọ cánh cứng Nhật Bản",
+        "answer": "Sâu bướm",
+        "righttToHhelp": "Sâu bướm",
+        "righttToHhelp_1": "Bọ cánh cứng Nhật Bản"
+    }
+    ],
+    "level_11": [
+    {
+        "question": "Tổng thống Mỹ nào từng xuất hiện trong loạt phim truyền hình Laugh-In?",
+        "a": "Lyndon Johnson",
+        "b": "Richard Nixon",
+        "c": "Jimmy Carter",
+        "d": "Gerald Ford",
+        "answer": "Richard Nixon",
+        "righttToHhelp": "Richard Nixon",
+        "righttToHhelp_1": "Gerald Ford"
+    }
+    ],
+    "level_12": [
+    {
+        "question": "Đâu là tên một loại bệnh trên cây lúa?",
+        "a": "Đạo tráng",
+        "b": "Đạo lí",
+        "c": "Đạo ôn",
+        "d": "Đạo đức",
+        "answer": "Đạo ôn",
+        "righttToHhelp": "Đạo ôn",
+        "righttToHhelp_1": "Đạo đức"
+    }
+    ],
+    "level_13": [
+    {
+        "question": "Đâu là tên một ngôi chùa nổi tiếng ở Thái Bình?",
+        "a": "Chùa Dâu",
+        "b": "Chùa Keo",
+        "c": "Chùa Đồng",
+        "d": "Chùa Hang",
+        "answer": "Chùa Keo",
+        "righttToHhelp": "Chùa Keo",
+        "righttToHhelp_1": "Chùa Đồng"
+    }
+    ],
+    "level_14": [
+    {
+        "question": "Sóng âm không thể truyền được trong môi trường nào?",
+        "a": "Gỗ",
+        "b": "Không khí",
+        "c": "Sắt",
+        "d": "Chân không",
+        "answer": "Chân không",
+        "righttToHhelp": "Gỗ",
+        "righttToHhelp_1": "Chân không"
+    }
+    ],
+    "level_15": [
+    {
+        "question": "Nhà Hậu Lê được thành lập sau thắng lợi của cuộc khởi nghĩa nào?",
+        "a": "Hàm Tử",
+        "b": "Lam Sơn",
+        "c": "Bắc Sơn",
+        "d": "Đông Sơn",
+        "answer": "Lam Sơn",
+        "righttToHhelp": "Lam Sơn",
+        "righttToHhelp_1": "Đông Sơn"
+    }
+    ]
+}
